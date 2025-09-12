@@ -19,4 +19,4 @@ Built using **HTML, CSS, JavaScript, react.js**
 ## 📸 Screenshots
 <img width="1614" height="874" alt="image" src="https://github.com/user-attachments/assets/b41c9778-19d1-4277-ad3f-d26f5e01ae35" />
 
-project link : https://weather-salamander-d5058f.netlify.app/
+project link : https://transcendent-salmiakki-2f276b.netlify.app/ 
