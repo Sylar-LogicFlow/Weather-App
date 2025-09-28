@@ -147,7 +147,7 @@ function App() {
     : [0, 0];
   hours = hours % 12;
   hours = hours ? hours : 12;
-  let ampm = hours >= 12 ? "AM" : "PM";
+  let ampm = hours > 12 ? "AM" : "PM";
   // ===api 3===
 
   // handlechange theme button
