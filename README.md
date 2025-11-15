@@ -48,11 +48,6 @@ npm dev
 - Multiple language support
 - Dark/Light mode toggle
 
-## 📝 License
-
-MIT License
-```
-
 ```
 Weather App - A React-based weather application that fetches real-time weather data 
 from OpenWeatherMap API. Features include city search, current weather conditions, 
