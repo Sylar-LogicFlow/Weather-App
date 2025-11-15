@@ -22,10 +22,6 @@ A modern and responsive weather application that provides real-time weather info
 
 [View Live Demo](your-demo-link-here)
 
-## 📸 Screenshots
-
-![Weather App Screenshot](screenshot.png)
-
 ## 🔧 Installation
 ```bash
 # Clone the repository
