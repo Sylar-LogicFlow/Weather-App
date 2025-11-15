@@ -51,10 +51,12 @@ npm run dev
 ## 📸 Screenshots
 
 ### Desktop View
-![Weather App Desktop](https://cdn.discordapp.com/attachments/1304510312212467875/1439064867305820200/image.png)
+![Weather App Desktop]
+![Uploading image.png…]()
 
 *Clean and modern interface showing real-time weather data*
 
+Link : https://super-sopapillas-6350ad.netlify.app/
 ---
 
 ## 🌟 Future Improvements
