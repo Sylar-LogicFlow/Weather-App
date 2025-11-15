@@ -98,3 +98,8 @@ Key Achievements:
 - Created reusable React components following best practices
 
 Technologies: React.js, JavaScript (ES6+), CSS3, REST API, Git
+
+## 📸 Screen Shot For This Project
+
+### Desktop View
+https://cdn.discordapp.com/attachments/1304510312212467875/1439064867305820200/image.png?ex=69192918&is=6917d798&hm=0764e86d5ddc08a4306cc11dbd4092072dd7db7f321f93b082c677cf8a3eed8f&
