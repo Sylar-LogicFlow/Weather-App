@@ -2,6 +2,8 @@
 
 A modern and responsive weather application that provides real-time weather information for any location worldwide.
 
+---
+
 ## ✨ Features
 
 - 🌍 Search weather by city name
@@ -11,16 +13,23 @@ A modern and responsive weather application that provides real-time weather info
 - 🎨 Clean and intuitive user interface
 - ⚡ Fast and accurate weather data using OpenWeatherMap API
 
+---
+
 ## 🛠️ Technologies Used
 
-- React.js
-- CSS3
-- OpenWeatherMap API
-- Axios for API calls
+- **React.js** - Frontend framework
+- **CSS3** - Styling and animations
+- **OpenWeatherMap API** - Real-time weather data
+- **Axios** - API calls
+- **Vite** - Build tool
+
+---
 
 ## 🚀 Live Demo
 
-[View Live Demo](your-demo-link-here)
+**[👉 View Live Demo](https://super-sopapillas-6350ad.netlify.app/)**
+
+---
 
 ## 🔧 Installation
 ```bash
@@ -34,8 +43,19 @@ cd weather-app
 npm install
 
 # Start the application
-npm dev
+npm run dev
 ```
+
+---
+
+## 📸 Screenshots
+
+### Desktop View
+![Weather App Desktop](https://cdn.discordapp.com/attachments/1304510312212467875/1439064867305820200/image.png)
+
+*Clean and modern interface showing real-time weather data*
+
+---
 
 ## 🌟 Future Improvements
 
@@ -43,63 +63,33 @@ npm dev
 - Current location detection
 - Multiple language support
 - Dark/Light mode toggle
-
-```
-Weather App - A React-based weather application that fetches real-time weather data 
-from OpenWeatherMap API. Features include city search, current weather conditions, 
-temperature display, and a responsive design that works seamlessly across all devices.
-```
+- Favorite cities list
+- Weather alerts and notifications
 
 ---
 
-## **3️⃣ App Store/Google Play Description:**
-```
-⛅ Weather - Your Personal Weather Companion
+## 📝 About
 
-Stay informed about the weather with our simple and elegant weather app!
-
-🌟 KEY FEATURES:
-- Real-time weather updates for any city worldwide
-- Current temperature, humidity, and wind speed
-- Beautiful weather icons and animations
-- Clean and easy-to-use interface
-- Fast and accurate data
-- Works offline with cached data
-
-🌍 GLOBAL COVERAGE:
-Search for weather information in any city around the world and get instant results.
-
-📱 RESPONSIVE DESIGN:
-Beautiful interface that adapts to any screen size - phone, tablet, or desktop.
-
-🎨 MODERN UI:
-Enjoy a sleek, modern design with smooth animations and intuitive navigation.
-
-Perfect for planning your day, week, or travel! Download now and never be caught 
-off guard by the weather again.
-
-Keywords: weather, forecast, temperature, climate, weather app, local weather
-```
+Weather App is a React-based weather application that fetches real-time weather data from OpenWeatherMap API. Features include city search, current weather conditions, temperature display, and a responsive design that works seamlessly across all devices.
 
 ---
 
-## **4️⃣ LinkedIn/Resume Description:**
-```
-Weather Application
+## 👨‍💻 Author
 
-Developed a fully responsive weather application using React.js that provides 
-real-time weather information through OpenWeatherMap API integration.
+- GitHub: [@yourusername](https://github.com/yourusername)
+- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
 
-Key Achievements:
-- Implemented dynamic search functionality for global city weather data
-- Designed responsive UI using modern CSS3 techniques
-- Integrated RESTful API calls with error handling
-- Optimized performance for fast data fetching and rendering
-- Created reusable React components following best practices
+---
 
-Technologies: React.js, JavaScript (ES6+), CSS3, REST API, Git
+## 📄 License
 
-## 📸 Screen Shot For This Project
+This project is licensed under the MIT License.
 
-### Desktop View
-https://cdn.discordapp.com/attachments/1304510312212467875/1439064867305820200/image.png?ex=69192918&is=6917d798&hm=0764e86d5ddc08a4306cc11dbd4092072dd7db7f321f93b082c677cf8a3eed8f&
+---
+
+## 🙏 Acknowledgments
+
+- Weather data provided by [OpenWeatherMap](https://openweathermap.org/)
+- Icons and design inspiration from the web development community
+
+---
