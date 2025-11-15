@@ -53,9 +53,6 @@ npm dev
 MIT License
 ```
 
----
-
-## **2️⃣ Portfolio Description (قصير):**
 ```
 Weather App - A React-based weather application that fetches real-time weather data 
 from OpenWeatherMap API. Features include city search, current weather conditions, 
